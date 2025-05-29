@@ -45,6 +45,7 @@ pip install -r requirements.txt
 
 ## Author
 - Harini
+- Kaviya
 
 ---
 
